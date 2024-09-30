@@ -1,0 +1,5 @@
+# Created at 2024-09-23T17:17:50.150
+Boot Manifest-JAR contains absolute paths in classpath 'H:\UNI 2024 - 25\1º Cuatrimestre\AEDII (Algoritmos y Estructura de Datos II)\Tema 1\Practica\Ejercicios\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
